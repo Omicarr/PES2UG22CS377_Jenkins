@@ -43,7 +43,7 @@ pipeline {
                 script {
  
 
-                    sh './output'
+                    sh 'exit 1'
  
 
                 }
